@@ -25,7 +25,7 @@ def clean_education(x):
     elif "Master’s degree" in x:
         return "Master's degree"
     elif "Professional degree" in x or "Other doctoral" in x:
-        return "Post grad"
+        return "Post graduate"
     else:
         return "Less than a Bachelors"
 

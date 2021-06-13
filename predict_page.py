@@ -37,8 +37,8 @@ def show_predict_page():  # sourcery skip
 
     education = (
         "Less than a Bachelors",
-        "Bachelor’s degree",
-        "Master’s degree",
+        "Bachelor's degree",
+        "Master's degree",
         "Post graduate"
     )
 
